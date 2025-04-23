@@ -92,3 +92,4 @@ This project fulfills the requirements of Task-3 from CODTECH Internship and is 
 
 #Output
 
+![Image](https://github.com/user-attachments/assets/1a1f454e-59fd-4e02-8673-f902c6248cbd)
